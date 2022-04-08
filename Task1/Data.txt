@@ -1,0 +1,3 @@
+72.30078125 MegaBytes Working Set - 40.97265625 MegaBytes Private Memory - 312 Open handles
+97.3515625 MegaBytes Working Set - 67.07421875 MegaBytes Private Memory - 335 Open handles
+97.47265625 MegaBytes Working Set - 67.0703125 MegaBytes Private Memory - 335 Open handles
